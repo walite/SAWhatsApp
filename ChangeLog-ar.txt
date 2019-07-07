@@ -15,5 +15,5 @@
 <li> Fixed Crash when open chat in some devices</li>
 <li> Other Fixes</li>
 
-","url":"https://www.saifroid.com/p/sawhatsapp.html"
+","url":"https://www.devsaif.com/2019/05/SAWhatsApp.html"
 }
