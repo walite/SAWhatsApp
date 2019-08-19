@@ -1,19 +1,31 @@
-{"version_code":452603,"content":"
-<p>تحديث|update 3.30</p>
+{"version_code":452892,"content":"
+<p> تحديث|Update 3.40</p>
 
-</li>ﺍﺻﻼﺡ ﻣﺸﻜﻠﺔ ﻇﻬﻮﺭ ﻋﺪﺍﺩ ﺍﻟﺮﺳﺎﺋﻞ ﺍﻟﻤﺨﻔﻴﺔ<li>
-</li>ﺍﺻﻼﺡ ﻟﻮﻥ ﺍﻟﺪﻓﻌﺎﺕ ﻓﻲ ﺷﺎﺷﺔ ﺍﻟﻤﺤﺎﺩﺛﺔ<li>
-</li>ﺍﺻﻼﺡ ﺍﻻﻧﻬﻴﺎﺭ ﻋﻨﺪ ﻓﺘﺢ ﻣﺤﺎﺩﺛﺔ ﻓﻲ ﺑﻌﺾ ﺍﻻﺻﺪﺍﺭﺍﺕ<li>
-</li>ﺍﺻﻼﺣﺎﺕ ﺍﺧﺮﻯ<li>
+<li> التحديث لنسخة الماركت 2.19.216</li>
+<li> ضد الحظر ان شاء الله</li>
+<li> اضافة خيار لاخفاء الخط الرمادي في قسم الحالة</li>
+<li> إمكانية معرفة الشخص الذي قام بمشاهدة حالتك (الستوري)  </li>
+<li> اضافة امكانية إعادة الارسال بدون ظهور رسالة مُحولة </li>
+<li> اضافة امكانية تحميل الصورة الشخصية لاي شخص كان</li>
+<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
+<li> تحسين خيار الوضع المظلم للاعدادات</li>
+<li> إصلاح  ظهور الإشعارات المنبثقة في اصدار اوريو و الفطيرة</li>
+<li> إصلاح مشكلة التعليق في التطبيق</li>
+<li> والمزيد...</li>
 
 
-<li>Fixed Hidden Chat Count Showing on Main Screen</li>
-<li>Fixed Payments Color in Attach Menu</li>
-<li>Fixed Crash When Open Chat on Some Devices</li>
-<li>Many More Fixes</li>
+
+<li>New Base Updated to 2.19.216 (Playstore) </li>
+<li>Anti-Ban </li>
+<li>Added option to Disable "Forward" tag  </li>
+<li>Added show Toast When Anyone Views your Status/Story</li>
+<li>Added Ability to download profile image</li>
+<li>Added option to Hide grey line between Status in Story Screen</li>
+<li>Improved option Dark Theme for ALL Settings</li>
+<li>Enabled All hidden features..</li>
+<li>Fixed Disable Heads-up for Oreo & Pie Users</li>
+<li>Fixed lag issue</li>
 
 
-
-
-","url":"https://www.devsaif.com/2019/05/SAWhatsApp.html"
+","url":"https://www.devsaif.com/2018/11/SAWhatsApp-V3.00.html"
 }
