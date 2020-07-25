@@ -1,4 +1,4 @@
-{"version_code":453123,"content":"
+{"version_code":453597,"content":"
 <p>تحديث | Upate 3.65</p>
 
 <li>تحديث جديد</li>
@@ -8,5 +8,5 @@
 
 
 
-","url":"https://www.mohtaref-teqani.com/2020/02/SAWhatsApp.html"
+","url":"https://t.co/wA3NT7Bl3g"
 }
