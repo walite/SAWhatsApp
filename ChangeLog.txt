@@ -1,5 +1,5 @@
-{"version_code":453597,"content":"
-<p>تحديث | Upate 3.65</p>
+{"version_code":205218001,"content":"
+<p>تحديث | Upate 3.90</p>
 
 <li>تحديث جديد</li>
 
@@ -8,5 +8,5 @@
 
 
 
-","url":"https://t.co/wA3NT7Bl3g"
+","url":"https://t.co/uFtMTGWDiX"
 }
